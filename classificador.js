@@ -1,5 +1,5 @@
 let nome = "Dougge";
-let xp = 3500;
+let xp = 2030;
 let resultado = "";
 
 if (xp < 1000) {
